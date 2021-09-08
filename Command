@@ -1,0 +1,1 @@
+docker build -t mini-breakpad/node:1.0 .
